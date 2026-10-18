@@ -1,0 +1,1 @@
+I learn that print always has brackets: print( ), that words you want shown alwaws go inside quotes and an f-string looks like f"text {variable} more text", and the { } live inside the quotes.
